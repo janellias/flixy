@@ -32,6 +32,14 @@ gem 'sass-rails'
 gem 'devise', '>= 3.2.4'
 
 gem 'simple_form'
+
+gem 'carrierwave'
+
+gem "figaro", ">= 1.0.0"
+
+gem "fog"
+
+gem 'nokogiri', '~> 1.6.0'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
